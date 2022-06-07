@@ -1,0 +1,30 @@
+h1{
+    padding-top: 15px;
+    font-family: "Helvetica ";
+    font-weight:bold;
+    font-size: large;
+}
+
+#container{
+    width:40%;
+    height:300px;
+    margin:0 auto;
+    padding:5px;
+
+}
+
+#word{
+    width: 400px;
+    height:30px;
+}
+
+button{
+    width:70px;
+    height:30px;
+}
+
+#output{
+    font-size: large;
+    font-weight:bold;
+    font-family: Georgia;
+}
